@@ -4,7 +4,7 @@
   This repository contains the full analysis workflow for the 
   <strong>LLM-based Linguistic Tailoring project</strong>, which tested whether 
   <strong>AI-tailored persuasive messages</strong> influence adolescents’ 
-  plant-based lunch choices in a real-world field experiment.
+  plant-based lunch choices in a real-world field experiment in the UK and Republic of Ireland.
 </p>
 
 <hr>
