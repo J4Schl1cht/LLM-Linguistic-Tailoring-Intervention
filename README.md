@@ -39,17 +39,39 @@
 
 <h2>Repository Structure</h2>
 <pre>
-notebooks/
-   01_preprocessing_frequentist.ipynb
-   02_bayesian_analysis.ipynb
-   03_exploratory_analysis.ipynb
-src/
-   utils.py
-   plotting.py
-models/      (Bayesian traces)
-figures/     (descriptive plots & diagnostics)
-data/        (anonymized dataset for replication)
-README.md
+├───.ipynb_checkpoints
+├───data
+│   ├───analysis
+│   ├───avicenna
+│   ├───chat_stats
+│   ├───keys
+│   │   ├───wave2
+│   │   ├───wave3
+│   │   ├───wave4
+│   │   ├───wave5
+│   │   └───wave6
+│   ├───messages
+│   │   ├───wave1
+│   │   ├───wave2
+│   │   ├───wave3
+│   │   ├───wave4
+│   │   ├───wave5
+│   │   └───wave6
+│   ├───processed
+│   │   ├───wave2
+│   │   ├───wave3
+│   │   ├───wave4
+│   │   ├───wave5
+│   │   └───wave6
+│   ├───qualtrics
+│   │   ├───wave2
+│   │   ├───wave3
+│   │   ├───wave4
+│   │   ├───wave5
+│   │   └───wave6
+│   ├───raw
+│   └───task_completion
+├───data processing notebooks
 </pre>
 
 <h2>Data Availability</h2>
