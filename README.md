@@ -1,4 +1,4 @@
-<h1>Linguistic Tailoring Intervention – Study 4 Analysis</h1>
+<h1>Linguistic Tailoring Intervention – Analysis</h1>
 
 <p>
   This repository contains the full analysis workflow for the 
