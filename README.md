@@ -26,8 +26,8 @@
 <h2>Hypotheses</h2>
 <ul>
   <li><strong>H1:</strong> Receiving any intervention message (vs. no message) increases plant-based lunch choices.</li>
-  <li><strong>H2:</strong> Tailored messages (vs. non-tailored messages) increase plant-based lunch choices.</li>
-  <li><strong>H3:</strong> Tailored messages improve message and source evaluations.</li>
+  <li><strong>H2:</strong> Tailored messages (vs. non-tailored messages) increase message responses (e.g. message liking, relevance).</li>
+  <li><strong>H3:</strong> Tailored messages improve message and source responses (e.g., source liking, source trust).</li>
 </ul>
 
 <h2>Statistical Overview</h2>
