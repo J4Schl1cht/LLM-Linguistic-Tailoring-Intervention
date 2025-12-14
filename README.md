@@ -49,7 +49,7 @@
   Built end-to-end NLP workflows for real-world text data, including preprocessing, filtering, aggregation, and feature construction
   
 - **Experimental Design**  
-  Designed and executed multi-arm randomized experiments with repeated measures to evaluate the causal impact of LLM-driven intervention.
+  Designed a multi-arm randomized experiments with repeated measures to evaluate the causal impact of LLM-driven tailoring intervention.
 
 - **Bayesian Multilevel Modeling**  
   Implemented hierarchical Bayesian models (logistic and linear) to analyze longitudinal behavioral data, capturing individual-level variation.
