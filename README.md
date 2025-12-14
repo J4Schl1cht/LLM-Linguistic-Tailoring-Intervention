@@ -37,6 +37,27 @@
   <li><strong>Random effects:</strong> Participant-level intercepts</li>
 </ul>
 
+## 🧠 Skills Demonstrated
+
+- **LLM Prompt Engineering & Text Style Transfer**  
+  Designed and optimized prompts for controlled text rewriting, preserving semantic content while adapting linguistic style for personalized message generation.
+
+- **LLM Evaluation & Benchmarking**  
+  Assessed models and prompting strategies using criteria such as content preservation, stylistic fidelity, and fluency to select reliable, scalable approaches.
+
+- **Applied NLP Pipelines**  
+  Built end-to-end NLP workflows for real-world text data, including preprocessing, filtering, aggregation, and feature construction
+  
+- **Experimental Design**  
+  Designed and executed multi-arm randomized experiments with repeated measures to evaluate the causal impact of AI-driven interventions.
+
+- **Bayesian Multilevel Modeling**  
+  Implemented hierarchical Bayesian models (logistic and linear) to analyze longitudinal behavioral data, capturing individual-level variation and uncertainty.
+
+- **Data Visualization & Insight Communication**  
+  Created visualizations of treatment effects, time trends, and uncertainty.
+
+
 <h2>Repository Structure</h2>
 <pre>
 ├───.ipynb_checkpoints
