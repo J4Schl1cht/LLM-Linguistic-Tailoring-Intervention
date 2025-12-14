@@ -2,9 +2,11 @@
 
 <p>
   This repository contains the full analysis workflow for the 
-  <strong>LLM-based Linguistic Tailoring project</strong>, which tested whether 
-  <strong>AI-tailored persuasive messages</strong> influence adolescents’ 
+  LLM-based Linguistic Tailoring project, which tested whether 
+  AI-tailored persuasive messages influence adolescents’ 
   plant-based lunch choices in a real-world field experiment in the UK and Republic of Ireland.
+
+  Preprint available under: https://osf.io/preprints/psyarxiv/wyhgq_v1
 </p>
 
 <hr>
